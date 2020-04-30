@@ -1,0 +1,91 @@
+@font-face {
+  font-family: "iconfont";
+  src: url('@~/static/iconfont.ttf') format('truetype'); /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-guolvqi:before {
+  content: "\e627";
+}
+
+.icon-mine:before {
+  content: "\e66d";
+}
+
+.icon-home:before {
+  content: "\e66e";
+}
+
+.icon-order:before {
+  content: "\e675";
+}
+
+.icon-all:before {
+  content: "\e6ef";
+}
+
+.icon-lvsejiaoyu-:before {
+  content: "\e609";
+}
+
+.icon-lvsejiaoyu-1:before {
+  content: "\e60a";
+}
+
+.icon-lvsejiaoyu-2:before {
+  content: "\e60b";
+}
+
+.icon-lvsejiaoyu-3:before {
+  content: "\e60c";
+}
+
+.icon-lvsejiaoyu-4:before {
+  content: "\e60d";
+}
+
+.icon-iconfontarrowdown:before {
+  content: "\e60e";
+}
+
+.icon-icon-test:before {
+  content: "\e63b";
+}
+
+.icon-icon-test1:before {
+  content: "\e63c";
+}
+
+.icon-icon-test2:before {
+  content: "\e63f";
+}
+
+.icon-icon-test3:before {
+  content: "\e658";
+}
+
+.icon-icon-test4:before {
+  content: "\e659";
+}
+
+.icon-icon-test5:before {
+  content: "\e65a";
+}
+
+.icon-icon-test6:before {
+  content: "\e65b";
+}
+
+.icon-icon-test7:before {
+  content: "\e65c";
+}
+
+
+

@@ -1,0 +1,16 @@
+.customBgColor{
+	background: #f3f7f8;
+}
+.customNav .uni-navbar .uni-navbar--border{
+	border: 0;
+}
+.customNav .uni-navbar{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 100;
+}
+.customNav .uni-content-wrap{
+	margin-top: 90rpx;
+}
